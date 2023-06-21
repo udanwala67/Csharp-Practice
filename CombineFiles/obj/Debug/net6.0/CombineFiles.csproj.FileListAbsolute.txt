@@ -1,0 +1,15 @@
+C:\Assignment\CombineFiles\bin\Debug\net6.0\CombineFiles.exe
+C:\Assignment\CombineFiles\bin\Debug\net6.0\CombineFiles.deps.json
+C:\Assignment\CombineFiles\bin\Debug\net6.0\CombineFiles.runtimeconfig.json
+C:\Assignment\CombineFiles\bin\Debug\net6.0\CombineFiles.dll
+C:\Assignment\CombineFiles\bin\Debug\net6.0\ref\CombineFiles.dll
+C:\Assignment\CombineFiles\bin\Debug\net6.0\CombineFiles.pdb
+C:\Assignment\CombineFiles\obj\Debug\net6.0\CombineFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignment\CombineFiles\obj\Debug\net6.0\CombineFiles.AssemblyInfoInputs.cache
+C:\Assignment\CombineFiles\obj\Debug\net6.0\CombineFiles.AssemblyInfo.cs
+C:\Assignment\CombineFiles\obj\Debug\net6.0\CombineFiles.csproj.CoreCompileInputs.cache
+C:\Assignment\CombineFiles\obj\Debug\net6.0\CombineFiles.dll
+C:\Assignment\CombineFiles\obj\Debug\net6.0\ref\CombineFiles.dll
+C:\Assignment\CombineFiles\obj\Debug\net6.0\CombineFiles.pdb
+C:\Assignment\CombineFiles\obj\Debug\net6.0\CombineFiles.genruntimeconfig.cache
+C:\Assignment\CombineFiles\obj\Debug\net6.0\CombineFiles.csproj.AssemblyReference.cache

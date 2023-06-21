@@ -1,0 +1,15 @@
+C:\Assignment\Inheritance\bin\Debug\net6.0\Inheritance.exe
+C:\Assignment\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+C:\Assignment\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+C:\Assignment\Inheritance\bin\Debug\net6.0\Inheritance.dll
+C:\Assignment\Inheritance\bin\Debug\net6.0\ref\Inheritance.dll
+C:\Assignment\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+C:\Assignment\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+C:\Assignment\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignment\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+C:\Assignment\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+C:\Assignment\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Assignment\Inheritance\obj\Debug\net6.0\Inheritance.dll
+C:\Assignment\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
+C:\Assignment\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+C:\Assignment\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache

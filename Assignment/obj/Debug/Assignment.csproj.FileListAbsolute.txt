@@ -1,7 +1,8 @@
-C:\Assignment\Assignment\obj\Debug\Assignment.csproj.SuggestedBindingRedirects.cache
-C:\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
 C:\Assignment\Assignment\bin\Debug\Assignment.exe.config
 C:\Assignment\Assignment\bin\Debug\Assignment.exe
 C:\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+C:\Assignment\Assignment\obj\Debug\Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
 C:\Assignment\Assignment\obj\Debug\Assignment.exe
 C:\Assignment\Assignment\obj\Debug\Assignment.pdb

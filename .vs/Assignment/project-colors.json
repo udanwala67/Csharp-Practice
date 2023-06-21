@@ -15,7 +15,12 @@
       "ProjectGuid": "8ace6cb3-c00f-4ea7-89d5-127b10accb84",
       "DisplayName": "ClassLibrary1",
       "ColorIndex": 1
+    },
+    "5d7559a6-e98f-4932-bb65-350a6b1a9f36": {
+      "ProjectGuid": "5d7559a6-e98f-4932-bb65-350a6b1a9f36",
+      "DisplayName": "OOPS",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
